@@ -1,0 +1,13 @@
+[
+{ "Author":"Eric Pogue", "AuthorEmail":"epogue@lewisu.edu", "ContactURL":"https://thunderbird-index-sp22.azurewebsites.net/w0a6zk195e" }, 
+{ "Author":"Eric Pogue", "AuthorEmail":"epogue@lewisu.edu", "ContactURL":"https://thunderbird-index-sp22.azurewebsites.net/batman" }, 
+{ "Author":"Eric Pogue", "AuthorEmail":"epogue@lewisu.edu", "ContactURL":"https://thunderbird-index-sp22.azurewebsites.net/no-last-name" }, 
+{ "Author":"Eric Pogue", "AuthorEmail":"epogue@lewisu.edu", "ContactURL":"https://thunderbird-index-sp22.azurewebsites.net/too-short-a-last-name" },
+{ "Author":"Megan Vesta", "AuthorEmail":"meganevesta@lewisu.edu", "ContactURL":"https://hosting-json-mv.azurewebsites.net/personal" },        
+{ "Author":"Megan Vesta", "AuthorEmail":"meganevesta@lewisu.edu", "ContactURL":"https://hosting-json-mv.azurewebsites.net/spiderman" },  
+{ "Author":"Jacob Prince", "AuthorEmail":"jacobmprince@lewisu.edu", "ContactURL":"https://hostingjson-jp.azurewebsites.net/jacobprince" }, 
+{ "Author":"Jacob Prince", "AuthorEmail":"jacobmprince@lewisu.edu", "ContactURL":"https://hostingjson-jp.azurewebsites.net/nightwing" },
+{ "Author":"Julian Pala", "AuthorEmail":"julianpala@lewisu.edu", "ContactURL":"https://hostjson1.azurewebsites.net/personal" }, 
+{ "Author":"Julian Pala", "AuthorEmail":"julianpala@lewisu.edu", "ContactURL":"https://hostjson1.azurewebsites.net/daredevil" }, 
+{ "Author":"Jazmin Buenrostro", "AuthorEmail":"jazminmbuenrostro@lewisu.edu", "ContactURL":"https://hostjson.azurewebsites.net/personal" } 
+]
